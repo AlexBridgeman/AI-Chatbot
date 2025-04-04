@@ -1,2 +1,2 @@
-# AI-Chatbot
-This is a AI Chatbot using the Gemini API
+# About my AI Chatbot project powered by Google's Gemini API
+You will need a application that connects to a database such as XAMPP or WampServer. Place the folder within the 'htdocs' folder if using XAMPP or 'www' if using Wampserver. Open 'localhost/AIChatbot'and click the 'public_html/' folder and the project should run. Register unique credentials and login to the system and you will be greeted by the AI chatbot. 
